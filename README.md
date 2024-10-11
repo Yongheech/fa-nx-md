@@ -1,3 +1,3 @@
 # fa-nx-md
 ---
-## fa-nx-md
+## Helm App for ArgoCD
